@@ -1,0 +1,54 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Wasting Love"},
+                  "AlbumTitle": {"S": "Fear of the Dark Live"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Weekend Warrior"},
+                  "AlbumTitle": {"S": "Fear of the Dark"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Fear of the Dark"},
+                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        },
+	  {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Emicida"},
+                  "SongTitle": {"S": "Pequenas Alegrias da Vida Aduta"},
+                  "AlbumTitle": {"S": "AmarElo"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Emicida"},
+                  "SongTitle": {"S": "AmarElo"},
+                  "AlbumTitle": {"S": "AmarElo"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        }		
+      ]
+}
